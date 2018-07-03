@@ -1,6 +1,6 @@
 #+++++++++++++++++++++++++++++++++++++++
 # Dockerfile for webdevops/nginx-dev:alpine
-#    -- automatically generated  --
+#    -- automatically generated2  --
 #+++++++++++++++++++++++++++++++++++++++
 
 FROM webdevops/nginx:alpine
